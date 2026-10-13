@@ -25,6 +25,9 @@
 ### 🌐 [nan-websites-empire](https://github.com/nidaayesha54/nan-websites-empire)
 149 free tool websites — insurance calculators, AI generators, finance tools, logo makers & more. All live, all monetized.
 
+### 🔍 [AI Video Detector](https://aivideodetector.site)
+Free online tool — upload any MP4, MOV or WEBM video and find out in seconds whether it was AI-generated. No signup, no watermark.
+
 ---
 
 ⭐ **Let's work together:** [nidaayesha.com](https://nidaayesha.com) | [WhatsApp](https://wa.me/923177415702)
